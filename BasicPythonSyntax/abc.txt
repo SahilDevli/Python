@@ -1,0 +1,23 @@
+To handle tabular files in Python and perform file operations comprehensively, you can follow these steps:
+
+1. Understand File Formats
+CSV (Comma-Separated Values): Common format for tabular data.
+Excel Files (XLSX): Use libraries like openpyxl or pandas for reading/writing.
+JSON: Often used for semi-structured data.
+Text Files: With delimited values (e.g., tab-delimited).
+
+2. Libraries to Learn
+csv: Built-in library for basic CSV file handling.
+pandas: For advanced tabular data manipulation and conversion.
+os / shutil: For file management tasks.
+json: For handling JSON files.
+appended line
+
+
+Mode	Description
+r	Read-only mode (default).
+w	Write mode (overwrites file).
+a	Append mode.
+r+	Read and write.
+w+	Write and read (overwrites).
+a+	Append and read
